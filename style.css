@@ -21,10 +21,14 @@ p {
 
 #blog {
       border-top: 1px dotted #ccc;
+     
+      
 }
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+    
+    
 }
 
 
@@ -51,3 +55,15 @@ h4{
     font-size:  1.5em;
     margin: 0;
 }
+
+.Game-Technology{
+    background: blue;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-left: 10px;
+    
+}
+
+
+
